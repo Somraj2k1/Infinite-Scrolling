@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Infinite-Scrolling/static/js/main.99d51379.chunk.js",
+    "main.js.map": "/Infinite-Scrolling/static/js/main.99d51379.chunk.js.map",
+    "runtime-main.js": "/Infinite-Scrolling/static/js/runtime-main.a29901a5.js",
+    "runtime-main.js.map": "/Infinite-Scrolling/static/js/runtime-main.a29901a5.js.map",
+    "static/js/2.26922d16.chunk.js": "/Infinite-Scrolling/static/js/2.26922d16.chunk.js",
+    "static/js/2.26922d16.chunk.js.map": "/Infinite-Scrolling/static/js/2.26922d16.chunk.js.map",
+    "index.html": "/Infinite-Scrolling/index.html",
+    "precache-manifest.a6db086dee1e4e5adb3800c2c7be2406.js": "/Infinite-Scrolling/precache-manifest.a6db086dee1e4e5adb3800c2c7be2406.js",
+    "service-worker.js": "/Infinite-Scrolling/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a29901a5.js",
+    "static/js/2.26922d16.chunk.js",
+    "static/js/main.99d51379.chunk.js"
+  ]
+}
